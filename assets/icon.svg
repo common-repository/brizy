@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mark-copy</title>
+    <defs>
+        <linearGradient x1="61.2286847%" y1="11.5398654%" x2="38.2521446%" y2="107.0318%" id="linearGradient-1">
+            <stop stop-color="#3D3AC4" offset="0%"></stop>
+            <stop stop-color="#56C5FD" offset="69.2627556%"></stop>
+            <stop stop-color="#BBF8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mark-copy">
+            <path d="M19,38 C38,38 38,34.2 38,19 C38,3.8 38,0 19,0 C0,0 0,3.8 0,19 C0,34.2 0,38 19,38 Z" id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <g id="Top-element" transform="translate(6.3515, 8.7333)">
+                <g id="path-2-link" transform="translate(0, -0)" fill="#000000" fill-rule="nonzero">
+                    <path d="M1.77635684e-15,7.34444097 L12.2625309,3.55271368e-15 L24.5250617,7.34444097 L12.2625309,14.6888819 L1.77635684e-15,7.34444097 Z M4.40193415,7.51930857 L12.2625309,12.2407349 L20.1231277,7.51930857 L12.2625309,2.79788227 L4.40193415,7.51930857 Z" id="path-2"></path>
+                </g>
+                <g id="path-2-link" transform="translate(0, -0)" fill="#FFFFFF">
+                    <path d="M1.77635684e-15,7.34444097 L12.2625309,3.55271368e-15 L24.5250617,7.34444097 L12.2625309,14.6888819 L1.77635684e-15,7.34444097 Z M4.40193415,7.51930857 L12.2625309,12.2407349 L20.1231277,7.51930857 L12.2625309,2.79788227 L4.40193415,7.51930857 Z" id="path-2"></path>
+                </g>
+            </g>
+            <g id="Bottom-el" opacity="0.75" transform="translate(6.3515, 20.9433)">
+                <g id="path-4-link" fill="#000000" fill-rule="nonzero">
+                    <polygon id="path-4" points="1.77635684e-15 1.291852 2.19645768 0 12.2625309 5.9137571 22.3938638 0.0383826 24.5250617 1.291852 12.2625309 8.5040895"></polygon>
+                </g>
+                <g id="path-4-link" fill="#FFFFFF">
+                    <polygon id="path-4" points="1.77635684e-15 1.291852 2.19645768 0 12.2625309 5.9137571 22.3938638 0.0383826 24.5250617 1.291852 12.2625309 8.5040895"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
